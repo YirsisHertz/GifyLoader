@@ -1,0 +1,11 @@
+h3{
+  font-size: 2rem;
+  text-align: center;
+  color: rgb(255, 254, 214);
+}
+
+.load{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
