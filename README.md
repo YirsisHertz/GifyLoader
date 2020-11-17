@@ -2,7 +2,7 @@
 
 # Gify Loader
 
-Este proyecto es desarrollado con tecnologías modernas como lo son [React JS](https://github.com/facebook/create-react-app), [Animate CSS](https://animate.style/), [Ox Framework](https://jos-nuxt-app.web.app/docs/introduction) [Beta] y [Pure CSS Loader](https://loading.io/css/)consumiendo el contenido de [Giphy](https://giphy.com/).
+Este proyecto es desarrollado con tecnologías modernas como lo son [React JS](https://github.com/facebook/create-react-app), [Animate CSS](https://animate.style/), [Ox Framework](https://jos-nuxt-app.web.app/docs/introduction) [Beta] y [Pure CSS Loader](https://loading.io/css/) consumiendo el contenido de [Giphy](https://giphy.com/).
 
 ## Scripts Disponibles
 
