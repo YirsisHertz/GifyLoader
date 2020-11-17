@@ -33,4 +33,8 @@ Alternativamente de crear tu carpeta build manualmente, puedes utilizar la depen
 
 ## Screenshots
 
+![](./img/ss2.png)
+![](./img/ss3.png)
+![](./img/ss4.png)
+![](./img/ss5.png)
 ![](./img/ss.png)
