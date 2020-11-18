@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 import { useFetchGifs } from "../hooks/useFetchGifs";
 import { GifGridItem } from "./GifGridItem";
 import "./GifGrid.css";
+import Loader from "./Loader"
 
 export const GifGrid = ({ category }) => {
   const { data: images, loading } = useFetchGifs(category);
@@ -13,11 +14,7 @@ export const GifGrid = ({ category }) => {
       <h3 className="animate__animated animate__zoomIn"> {category} </h3>
 
       {loading && (
-        <div className="load lds-facebook">
-          <div></div>
-          <div></div>
-          <div></div>
-        </div>
+	<Loader />
       )}
 
       <div className="card-grid">

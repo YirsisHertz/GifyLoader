@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import "./loading.css";
+// import "./loading.css";
 import "./GifGridItem.css";
 
 export const GifGridItem = ({ title, url }) => {
